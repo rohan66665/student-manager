@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rohan",
+    "age": 22,
+    "skill": "Python"
+  },
+  {
+    "name": "Amit",
+    "age": 23,
+    "skill": "React"
+  },
+  {
+    "name": "Sita",
+    "age": 21,
+    "skill": "GitHub"
+  }
+]
